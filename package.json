@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@svgr/core": "^7.0.0",
+    "@svgr/core": "^8.0.0",
     "typescript": "^5.2.2"
   },
   "devDependencies": {
